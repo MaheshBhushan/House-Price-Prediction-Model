@@ -1,5 +1,7 @@
 
 # House Prediction using XGB Regressor
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ## Description
 This project focuses on predicting house prices using the XGBoost Regressor algorithm. The XGBoost Regressor is a powerful gradient boosting algorithm that excels in regression tasks. By considering various features such as location, size, number of rooms, and other relevant factors, the model generates accurate predictions for house prices.
 ## Requirements
@@ -56,4 +58,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to [mokoduri73@gmail.com](mailto:mkoduri73@gmail.com).
-
